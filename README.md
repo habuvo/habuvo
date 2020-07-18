@@ -5,6 +5,12 @@
 -->
 
 - I’m currently working on Sibedge company
+
 - How to reach me: 
-     via telegram @habuvo or send me an email to ilya@canto.ru
-- I'm interested in fintech and highload on Go, learning constantly and knewing something new, getting different skills inspires me.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  via telegram @habuvo or send me an email to ilya@canto.ru
+- I'm interested in fintech and highload on Go.
+
+- What characterize me : 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  learning constantly and knewing something new, getting different skills inspires me.
